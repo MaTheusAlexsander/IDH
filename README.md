@@ -12,7 +12,7 @@ O IDH é uma medida comparativa que varia entre 0(nenhum desenvolvimento humano)
 
 Para a avaliação do IDH são utilizados três parâmetros(Saúde, Educação e Renda):
 
-Uma vida longa e saudável (*Saúde*): Expectativa de vida ao nascer
+Uma vida longa e saudável (*Saúde*): Expectativa de vida ao nascer</p>
 O acesso ao conhecimento(*Educação*): Anos Médios de Estudo e Anos Esperados de Escolaridade
 Uma padrão de vida decente(*Renda*): medido pela Renda Naciona Bruta(RNB) com base na Paridade de Poder de Compra(PPC) po habitante
 
