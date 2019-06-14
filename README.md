@@ -1,7 +1,7 @@
 <h1>#IDH</h1>
-##Índice de Desenvolvimento Humano
-###Código desenvolvido para auxiliar o cálculo IDH.
-####Projeto feito utilizando QT Creator para a disciplina de Técnicas de Programação 2019.1
+<h2>##Índice de Desenvolvimento Humano</h2>
+<h3>###Código desenvolvido para auxiliar o cálculo IDH.</h3>
+<h4>####Projeto feito utilizando QT Creator para a disciplina de Técnicas de Programação 2019.1</h4>
 
 O IDH é uma medida comparativa que varia entre 0(nenhum desenvolvimento humano) e 1(desenvolvimento humano total), revelando que quanto maior a proximidade de 1, mais desenvolvido é o pais.
 
