@@ -1,4 +1,4 @@
-#IDH
+<h1>#IDH</h1>
 ##Índice de Desenvolvimento Humano
 ###Código desenvolvido para auxiliar o cálculo IDH.
 ####Projeto feito utilizando QT Creator para a disciplina de Técnicas de Programação 2019.1
