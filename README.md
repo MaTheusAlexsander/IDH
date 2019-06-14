@@ -22,4 +22,4 @@ Esse novo método de cálculo do IDH começou a ser adotado no Relatório de Des
 
 <h2>Manual do Usuário</h2>
 
-<h4>Valores obridos a partir do [Relatório de Desenvolvimento Humano] (http://hdr.undp.org/sites/default/files/2018_human_development_statistical_update.pdf)</h4>
+<h4>Valores obridos a partir do [Relatório de Desenvolvimento Humano]  (http://hdr.undp.org/sites/default/files/2018_human_development_statistical_update.pdf)</h4>
