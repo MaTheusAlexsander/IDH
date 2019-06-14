@@ -6,9 +6,9 @@
 O IDH é uma medida comparativa que varia entre 0(nenhum desenvolvimento humano) e 1(desenvolvimento humano total), revelando que quanto maior a proximidade de 1, mais desenvolvido é o pais.
 
 
-##Critérios de avaliação
+<h2>Critérios de avaliação</h2>
 
-###Metodologia Atual
+<h3>Metodologia Atual</h3>
 
 Para a avaliação do IDH são utilizados três parâmetros(Saúde, Educação e Renda):
 
@@ -20,6 +20,6 @@ Esse novo método de cálculo do IDH começou a ser adotado no Relatório de Des
 
 
 
-###Manual do Usuário
+<h2>Manual do Usuário</h2>
 
-####Valores obridos a partir do [Relatório de Desenvolvimento Humano (RDH)] (http://hdr.undp.org/sites/default/files/2018_human_development_statistical_update.pdf)
+<h4>Valores obridos a partir do [Relatório de Desenvolvimento Humano (RDH)] (http://hdr.undp.org/sites/default/files/2018_human_development_statistical_update.pdf)</h4>
