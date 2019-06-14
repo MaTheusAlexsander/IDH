@@ -13,7 +13,7 @@ O IDH é uma medida comparativa que varia entre 0(nenhum desenvolvimento humano)
 Para a avaliação do IDH são utilizados três parâmetros(Saúde, Educação e Renda):
 
 Uma vida longa e saudável (*Saúde*): Expectativa de vida ao nascer</p>
-O acesso ao conhecimento(*Educação*): Anos Médios de Estudo e Anos Esperados de Escolaridade
+O acesso ao conhecimento(*Educação*): Anos Médios de Estudo e Anos Esperados de Escolaridade </p>
 Uma padrão de vida decente(*Renda*): medido pela Renda Naciona Bruta(RNB) com base na Paridade de Poder de Compra(PPC) po habitante
 
 Esse novo método de cálculo do IDH começou a ser adotado no Relatório de Desenvolvimento Humano (RDH) de 2010, pelo Programa das Nações Unidas para o Desenvolvimento (PNUD)
@@ -22,4 +22,4 @@ Esse novo método de cálculo do IDH começou a ser adotado no Relatório de Des
 
 <h2>Manual do Usuário</h2>
 
-<h4>Valores obridos a partir do [Relatório de Desenvolvimento Humano]  (http://hdr.undp.org/sites/default/files/2018_human_development_statistical_update.pdf) </h4>
+<h4>Valores obridos a partir do [Relatório de Desenvolvimento Humano](http://hdr.undp.org/sites/default/files/2018_human_development_statistical_update.pdf) </h4>
