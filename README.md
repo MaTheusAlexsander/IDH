@@ -48,9 +48,8 @@ Para adicionar os valores existe um critério:
      <p>Sim, é possível. Para realizar essas funções, é necessário selecionar o campo "IDH", em seguida "Salvar" e por fim nomear o arquivo.</p>
      <p>Já para carregar é só selecionar "carregar" no mesmo campo "IDH", como no exemplo abaixo:</p>
  
- ![](Imagens/salvar (2).png)
- 
- ![](Imagens/salvar1.png)
+ ![salvar](Imagens/salvar (2).png)
+ ![salvo](Imagens/salvar1.png)
  
    <h3> Função Extra: </h3>
    
