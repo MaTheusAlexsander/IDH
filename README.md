@@ -49,6 +49,7 @@ Para adicionar os valores existe um critério:
      <p>Já para carregar é só selecionar "carregar" no mesmo campo "IDH", como no exemplo abaixo:</p>
  
  ![](Imagens/salvar (2).png)
+ 
  ![](Imagens/salvar1.png)
  
    <h3> Função Extra: </h3>
