@@ -26,36 +26,36 @@ Esse novo método de cálculo do IDH começou a ser adotado no Relatório de Des
 
 O Programa permite que o usuário cadastre o país, o seu continente, a expectativa de vida ao nascer, o índice de educação atráves de dois critérios(Anos médios de estudos e Anos esperados de escolaridades) e o PIB, baseado nessas informações é gerado um cálculo para o IDH através da seguinte fórmula:
 
-![](imagens/calculo.png)
+![](Imagens/calculo.png)
 
 O cadrasto dos valores é feito através da tela Dados do programa.
 
-![](imagens/layout.png)
+![](Imagens/layout.png)
 
 Exemplo:
 
-![](imagens/valores.png)
+![](Imagens/valores.png)
 
 Para adicionar os valores existe um critério:
 
-<h4> Expectativa de vida ao nascer (anos): Valor máximo (<b>83.2</b>), Valor mínimo(<b>25</b>) </h4>
-<h4> Anos Médios de Estudos(anos): Valor máximo (<b>13.2</b>), Valor mínimo(<b>valor>1</b>) </h4>
-<h4> Anos Esperados de Escolaridades: Valor máximo (<b>20.6</b>), Valor mínimo(<b>valor<1</b>) </h4>
-<h4> PIB PPC (U$D): Valor máximo (<b>108.211</b>), Valor mínimo(<b>164</b>) </h4>
+<h4> Expectativa de vida ao nascer (anos): Valor máximo (<b>83.2</b>); Valor mínimo(<b>25</b>). </h4>
+<h4> Anos Médios de Estudos(anos): Valor máximo (<b>13.2</b>); Valor mínimo(<b>Valor>1</b>). </h4>
+<h4> Anos Esperados de Escolaridades: Valor máximo (<b>20.6</b>); Valor mínimo(<b>Valor<1</b>). </h4>
+<h4> PIB PPC (U$D): Valor máximo (<b>108.211</b>); Valor mínimo(<b>164</b>). </h4>
   
  <h3> É possivel salvar e/ ou carregar?? </h3>
      <p>Sim, é possível. Para realizar essas funções, é necessário selecionar o campo "IDH", em seguida "Salvar" e por fim nomear o arquivo.</p>
      <p>Já para carregar é só selecionar "carregar" no mesmo campo "IDH", como no exemplo abaixo:</p>
  
- ![](imagens/salvar.png)
- ![](imagens/salvar1.png)
+ ![](Imagens/salvar.png)
+ ![](Imagens/salvar1.png)
  
    <h3> Função Extra: </h3>
    
   Além das funções já mencionada, existe alguns botões que os dados em ordem alfabética, os países e os continentes, e por do maior para o menor, o PIB, a expecativa de vida, os anos médios e esperados de estudos e o IDH. Veja:
   
- ![](imagens/ordenado.png)
- ![](imagens/ordenadorporIDH.png)
+ ![](Imagens/ordenado.png)
+ ![](Imagens/ordenadorporIDH.png)
 
 
 <h3>Obrigado pela compreensão!</h3>
