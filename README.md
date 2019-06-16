@@ -20,6 +20,7 @@ Esse novo método de cálculo do IDH começou a ser adotado no Relatório de Des
 
 É uma maneira padronizada de avaliação e medida do bem-estar de uma população. É usado para distinguir se o país é desenvolvido, em desenvolvimento ou subdesenvolvido, e para medir igualmente o impacto de políticas econômicas na qualidade de vida.
 
+![](Imagens/classificacao.png)
 
 <h2>Manual do Usuário</h2>
 
@@ -47,7 +48,7 @@ Para adicionar os valores existe um critério:
      <p>Sim, é possível. Para realizar essas funções, é necessário selecionar o campo "IDH", em seguida "Salvar" e por fim nomear o arquivo.</p>
      <p>Já para carregar é só selecionar "carregar" no mesmo campo "IDH", como no exemplo abaixo:</p>
  
- ![](Imagens/salvar.png)
+ ![](Imagens/salvar (2).png)
  ![](Imagens/salvar1.png)
  
    <h3> Função Extra: </h3>
